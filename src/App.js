@@ -1,25 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import NavBar from './views/NavBar';
+import Main from './views/Main'
+import Footer from './views/Footer'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar />
+      <Main />
+      <Footer />
     </div>
   );
 }
 
 export default App;
+//D86FA3 text color
+//fcf0cc background
+//100406 accent
