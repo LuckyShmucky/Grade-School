@@ -1,4 +1,7 @@
 # Grade School
+![This is a badge saying, "Made By: Christian Luciano"](https://img.shields.io/badge/Made%20By%3A-Christian%20Luciano-brightgreen)
+![This is a badge saying, "Made By: Craig Caparaz"](https://img.shields.io/badge/Creator-Craig%20Caparaz-brightgreen) 
+![This is a badge saying, "Made By: Craig Caparaz"](https://img.shields.io/badge/Creator-Amanda%20Woods-brightgreen) 
 
 
 
