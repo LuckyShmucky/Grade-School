@@ -30,3 +30,6 @@ Currently this application is in its very early stages, so some of the goals tha
 - [ ] Create connection to MongoDB 
 - [ ] Create Models for Districts, Schools and Comments
 - [ ] Configure Server 
+
+
+#### Custom command to run server: runServer
